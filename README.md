@@ -1,4 +1,4 @@
-# Git Basic Practice
+﻿# Git Basic Practice
 
 本项目用与Git基础命令训练。
 
@@ -15,3 +15,4 @@
 ## 作业要求
 1. 使用命令行完成相关操作；
 2. 使用Git管理代码时请尽可能的遵照[Git使用的最佳实践](https://github.com/iamcoach/git)。
+ff
